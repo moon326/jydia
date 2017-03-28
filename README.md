@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html>star326
 <html manifest="cache.manifest">
     <head>
         <title>JAM</title>
